@@ -3,7 +3,7 @@
 
 # Hello World(literally)
 
-<b>Bem vindo ao meu perfil no Github!! Eu me chamo Pedro Abílio e sou um entusiasta de tecnologia, sempre estou estudando e me atualizando as novas tecnologias, meu objetivo neste ramo é sempre ter mais conhecimento!! 
+<b>Bem vindo ao meu perfil no Github!! Eu me chamo Pedro Abílio e sou um entusiasta de tecnologia, sempre estou estudando e me atualizando sobre as novas tecnologias, meu objetivo neste ramo é sempre ter mais conhecimento!! 
 
 ## Estatísticas
 
