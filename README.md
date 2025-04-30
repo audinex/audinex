@@ -9,7 +9,7 @@
 
 <div>
     <a href="https://beacons.ai/audinex"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaCordella&layout=compact&langs_counts=16&theme=great-gatsby"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audinexlayout=compact&langs_counts=16&theme=great-gatsby"/>
 </div>
 
 ## Linguagens
