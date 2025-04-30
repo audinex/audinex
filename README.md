@@ -22,13 +22,12 @@
 
 
 
-# Contato
+# Redes sociais
 
 <div>
-    <a href="mailto:lucacordella12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
-    <a href="https://www.linkedin.com/in/lucacordella" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    <a href="https://www.instagram.com/lucacordella/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+    <a href="mailto:pedroabiliocm2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>      
+    <a href="https://www.instagram.com/ab1lio__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
 ## 
-<b>Obrigado por visitar meu perfil! 🚀 Estou bastante animado para conectar e compartilhar conhecimento com a comunidade!
+<b>Obrigado pela atenção, tenha uma boa semana e muita tecnologia!!
