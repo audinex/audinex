@@ -1,7 +1,7 @@
 
 
 
-# Olá! Ciao!👋
+# Hello World(literally)
 
 <b>Bem vindo ao meu perfil no Github!! Eu me chamo Pedro Abílio e sou um entusiasta de tecnologia, sempre estou estudando e me atualizando as novas tecnologias, meu objetivo neste ramo é sempre ter mais conhecimento!! 
 
@@ -14,18 +14,13 @@
 
 ## Linguagens
 <div>  
-    <img align="center" alt="Luca-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />    
-    <img align="center" alt="Luca-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="center" alt="Luca-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img align="center" alt="Luca-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img align="center" alt="Luca-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img align="center" alt="" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />    
+    <img align="center" alt="" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
 # Sobre mim
 
-🚀 Estagiário no Ministério das Comunicações: Atuando na área de Desenvolvimento de Software em uma fabrica de software, onde estou aprimorando minhas habilidades em Ciclo de vida do software, desenvolvimento de software e etc.
 
-🌱 Explorando o mundo da programação: Atualmente, mergulhando em JavaScript, Python, Django e Java para expandir meus conhecimentos.
 
 # Contato
 
