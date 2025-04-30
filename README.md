@@ -3,12 +3,12 @@
 
 # Olá! Ciao!👋
 
-<b>Bem-vindo ao meu perfil do GitHub! Sou Luca Cordella, um estudante de Análise e Desenvolvimento de Sistemas do Centro Universitário de Brasília (CEUB), com uma paixão crescente por tecnologia e desenvolvimento de software. 🚀 
+<b>Bem vindo ao meu perfil no Github!! Eu me chamo Pedro Abílio e sou um entusiasta de tecnologia, sempre estou estudando e me atualizando as novas tecnologias, meu objetivo neste ramo é sempre ter mais conhecimento!! 
 
 ## Estatísticas
 
 <div>
-    <a href="https://beacons.ai/LucaCordella"> 
+    <a href="https://beacons.ai/audinex"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaCordella&layout=compact&langs_counts=16&theme=great-gatsby"/>
 </div>
 
